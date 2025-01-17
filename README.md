@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @emad-8869
+- 👀 I’m interested in software development, AI, machine learning, and robotics.
+- 🌱 I’m currently learning advanced data structures, algorithms, and React.js.
+- 📫 How to reach me: emha8869@gmail.com
+- 😄 Pronouns: He/Him
+- 🚀 Currently working on: The Juno app, a task management application built with React, Node.js, and MongoDB.
